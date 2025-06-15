@@ -1,2 +1,2 @@
-# README-Advancing-Human-AI-Collaboration-Towards-a-Functional-Framework-for-Co-Creative-AI
+# README: Advancing Human AI Collaboration Towards a Functional Framework for Co-Creative AI
 This repository supports the article "Advancing Human-AI Collaboration: Towards a Functional Framework for Co-Creative AI", exploring whether generative AI acts as an autonomous co-creator or a collaborative tool in the sense of HCI, and how it challenges human-centric creativity in the creative industries.
