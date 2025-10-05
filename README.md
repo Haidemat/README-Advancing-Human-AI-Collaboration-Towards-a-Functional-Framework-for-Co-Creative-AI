@@ -1,2 +1,2 @@
 # README: Co-Creative Machines: Rethinking Authorship, Labour, and Cultural Governance in Generative AI
-This repository supports the article "Advancing Human-AI Collaboration: Towards a Functional Framework for Co-Creative AI", exploring whether generative AI acts as an autonomous co-creator or a collaborative tool in the sense of HCI, and how it challenges human-centric creativity in the creative industries.
+This repository supports the article " Co-Creative Machines: Rethinking Authorship, Labour, and Cultural Governance in Generative AI", exploring whether generative AI acts as an autonomous co-creator or a collaborative tool, and how it challenges human-centric creativity in the creative industries.
